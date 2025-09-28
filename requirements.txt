@@ -1,3 +1,4 @@
+pip==25.0
 streamlit
 scikit-learn==1.2.2
 pandas
