@@ -1,5 +1,5 @@
-pip==25.0
+pip
 streamlit
-scikit-learn==1.2.2
+scikit-learn
 pandas
 numpy
